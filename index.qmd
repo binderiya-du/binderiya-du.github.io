@@ -1,7 +1,18 @@
 ---
 title: "Binderiya Dugersuren"
+format: html
+css: styles.css
 ---
 
-This is a Quarto website.
+  <div class="hero">
+  <h1>ABA Student</h1>
+  <h2>Binderiya Dugersuren</h2>
+  <p>I'm a Master's Student in Applied Business Analytics based in Boston and enjoy exploring data. I love running, learning new things & meeting new people.</p>
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+  <ul class="info">
+    <li><strong>Born in:</strong> Ulaanbaatar</li>
+    <li><strong>Date of Birth:</strong> 6 April 1998</li>
+  </ul>
+</div>
+
+![Profile Picture](images/profile.jpeg){width=400px style="border-radius: 80%;"}
