@@ -1,5 +1,11 @@
 ---
-title: "About"
+title: "Binderiya Dugersuren"
+subtitle: "Applied Business Analytics Student | Traveller"
+image: images/profile.jpeg
+about:
+  template: jolla
 ---
 
-About this site
+## About this blog
+
+This is the contents of the about page for my blog.

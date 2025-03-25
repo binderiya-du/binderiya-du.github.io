@@ -1,18 +1,22 @@
 ---
-title: "Binderiya Dugersuren"
+title: "Binderiya Dugsuren"
 format: html
 css: styles.css
 ---
 
-  <div class="hero">
-  <h1>ABA Student</h1>
-  <h2>Binderiya Dugersuren</h2>
-  <p>I'm a Master's Student in Applied Business Analytics based in Boston and enjoy exploring data. I love running, learning new things & meeting new people.</p>
 
-  <ul class="info">
-    <li><strong>Born in:</strong> Ulaanbaatar</li>
-    <li><strong>Date of Birth:</strong> 6 April 1998</li>
-  </ul>
+<div class="hero">
+  <div class="hero-content">
+    ## Binderiya Dugsuren
+
+    I'm a Master's Student in Applied Business Analytics based in Boston and enjoy exploring data. I love running, learning new things & meeting new people.
+
+    - **Born in:** Ulaanbaatar
+    - **Date of Birth:** 6 April 1998
+  </div>
 </div>
 
-![Profile Picture](images/profile.jpeg){width=400px style="border-radius: 80%;"}
+
+
+
+  
