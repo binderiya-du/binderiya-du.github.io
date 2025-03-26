@@ -2,6 +2,7 @@
 title: "Binderiya Dugsuren"
 sidebar: true
 toc: false
+image: /images/p1.JPG'
 format:
   html:
     page-layout: article
@@ -20,7 +21,7 @@ css: styles.css
 </div>
 <style type="text/css">
 .bgimg {
-  background-image: url('/Users/begiii/Documents/SPRING 2025/AD688/binderiya-du.github.io/static/images/p1.JPG');
+  background-image: url('/images/p1.JPG');
   Background-size: cover;
 }
 .lead {
