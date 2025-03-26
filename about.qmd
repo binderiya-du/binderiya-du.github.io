@@ -1,5 +1,5 @@
 ---
-title: "Binderiya Dugersuren"
+title: "About"
 subtitle: "Applied Business Analytics Student | Traveller"
 image: images/profile.jpeg
 about:
