@@ -19,7 +19,7 @@ css: styles.css
 </div>
 <style type="text/css">
 .bgimg {
-  background-image: url('images/backgroud_pic.jpeg');
+  background-image: url('images/p1.jpg');
   Background-size: cover;
 }
 .lead {

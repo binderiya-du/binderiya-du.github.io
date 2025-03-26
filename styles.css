@@ -14,7 +14,7 @@ body {
   align-items: center;
   justify-content: flex-start;  /* Align content to the left */
   height: 100vh;  /* Full height */
-  background-image: url('images/backgroud_pic.jpeg');  /* Set your background image here */
+  background-image: url('images/p1.jpg');  /* Set your background image here */
   background-size: cover;
   background-position: right;
 }
