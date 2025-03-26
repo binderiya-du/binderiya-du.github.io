@@ -11,6 +11,7 @@ css: styles.css
 ---
 ```{=html}
 <!-- Bug in hero - only displays properly with empty div at the top -->
+<div>
 <div class="jumbotron bgimg">
   <div class="container">
     <h1 class="display-4"></h1>
@@ -41,16 +42,30 @@ css: styles.css
 <div class="p-5 mb-4 bg-light rounded-3 bgimg">
   <br><br><br><br>
   <div class="hero-quote">
-    <h1 class="display-5 fw-bold">Looking<br>to do more<br>with data and AI?</h1>
+    <h1 class="display-5 fw-bold">Exploring the<br>world, one data <br>point at a time</h1>
   </div>
 </div>
 <p class="lead">
-   <small class="text-hero">DATA-CENTRIC AI &emsp; | &emsp; APPLIED AI &emsp; | &emsp; COACHING & MENTORING &emsp; | &emsp; MASTERCLASSES & PUBLIC SPEAKING</small>
+   <small class="text-hero">TRAVELER & LEARNER &emsp; | &emsp; DATA SCIENCE ENTHUSIAST &emsp; | &emsp; SUSTAINABILITY ADVOCATE &emsp; | &emsp; HALF MARATHONER & ASPIRING NYC MARATHONER</small>
 </p>
 ```
 
 
+<br>
+
+::: {.grid}
+::: {.g-col-1}
+:::
+
+::: {.g-col-10}
 
 
 
-  
+As a passionate traveler, I’ve always been curious about new places, cultures, and ideas. This curiosity drives me to explore and learn, and I’m bringing that same spirit of discovery to my work in data science. With a background in sustainability, my goal is to help businesses not only succeed but also operate responsibly and sustainably.
+
+While I’m just starting my journey in data science, I’m excited to dive deeper into this field and learn how data can help solve real-world problems. My mission is to use the power of data to create more sustainable solutions for businesses—whether it's optimizing resources, reducing waste, or making smarter decisions that benefit both people and the planet.
+
+Join me on my journey as I combine my love for exploration with my passion for data and sustainability!
+
+
+:::
