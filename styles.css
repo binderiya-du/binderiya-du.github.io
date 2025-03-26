@@ -14,7 +14,7 @@ body {
   align-items: center;
   justify-content: flex-start;  /* Align content to the left */
   height: 100vh;  /* Full height */
-  background-image: url('Users/begiii/Documents/SPRING 2025/AD688/binderiya-du.github.io/static/images/p1.JPG');  /* Set your background image here */
+  background-image: url('images/p1.JPG');  /* Set your background image here */
   background-size: cover;
   background-position: right;
 }
