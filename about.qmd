@@ -2,16 +2,10 @@
 title: "About me"
 subtitle: "Applied Business Analytics Student | Traveller"
 image: images/profile.jpeg
-about:
-  template: jolla
+format: html
+css: styles.css
 ---
 
-<style>
-  /* Left-align all headers */
-  h1, h2, h3, h4, h5, h6 {
-    text-align: left;
-  }
-</style>
 
 ## **About Me**
 
