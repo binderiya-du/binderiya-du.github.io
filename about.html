@@ -33,6 +33,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -113,6 +114,7 @@ ul.task-list li input[type="checkbox"] {
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">On this page</h2>
+   
   <ul>
   <li><a href="#about-me" id="toc-about-me" class="nav-link active" data-scroll-target="#about-me"><strong>About Me</strong></a></li>
   <li><a href="#ms-in-applied-business-analytics" id="toc-ms-in-applied-business-analytics" class="nav-link" data-scroll-target="#ms-in-applied-business-analytics"><strong>MS in Applied Business Analytics</strong></a></li>
@@ -122,45 +124,48 @@ ul.task-list li input[type="checkbox"] {
 </nav>
     </div>
 <!-- main -->
-<div class="quarto-about-jolla">
-  <img src="images/profile.jpeg" class="about-image
-  round " style="height: 15em; width: 15em;">
- <header id="title-block-header" class="quarto-title-block default">
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">About me</h1>
 <p class="subtitle lead">Applied Business Analytics Student | Traveller</p>
 </div>
-<div class="quarto-title-meta">
-  </div>
-</header><main class="content" id="quarto-document-content">
 
-<style>
-  /* Left-align all headers */
-  h1, h2, h3, h4, h5, h6 {
-    text-align: left;
-  }
-</style>
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
 <section id="about-me" class="level2">
-<h2 data-anchor-id="about-me"><strong>About Me</strong></h2>
+<h2 class="anchored" data-anchor-id="about-me"><strong>About Me</strong></h2>
 <p>Hi, I’m Binderiya Dugsuren, a Master’s student at Boston University pursuing a Master’s degree in Applied Business Analytics. I’m passionate about data science and using it to make businesses more sustainable. When I’m not diving into data, you’ll find me exploring new places around the world.</p>
 </section>
 <section id="ms-in-applied-business-analytics" class="level2">
-<h2 data-anchor-id="ms-in-applied-business-analytics"><strong>MS in Applied Business Analytics</strong></h2>
+<h2 class="anchored" data-anchor-id="ms-in-applied-business-analytics"><strong>MS in Applied Business Analytics</strong></h2>
 <p>I’m currently studying Applied Business Analytics at Boston University, where I’m gaining hands-on experience with tools like R, Python, and SQL. My background in sustainability drives me to apply data science to help businesses make smarter, more sustainable decisions. I’ve worked on several data analysis projects, including real estate investment forecasting and customer segmentation analysis.</p>
 </section>
 <section id="future-goals" class="level2">
-<h2 data-anchor-id="future-goals"><strong>Future Goals</strong></h2>
+<h2 class="anchored" data-anchor-id="future-goals"><strong>Future Goals</strong></h2>
 <p>In the future, I hope to work with organizations that aim to drive sustainable growth through data-driven decision-making. I’m eager to leverage my skills in analytics to help businesses minimize waste, optimize resources, and operate more sustainably.</p>
 </section>
 <section id="hobbies" class="level2">
-<h2 data-anchor-id="hobbies"><strong>Hobbies</strong></h2>
+<h2 class="anchored" data-anchor-id="hobbies"><strong>Hobbies</strong></h2>
 <p>Outside of academics, I’m an avid traveler. I love discovering new cultures and landscapes, and I try to bring that curiosity and excitement into everything I do. I’m also a passionate runner and am training for my first marathon.</p>
 
 
 </section>
-</main>  
-</div>
- <!-- /main -->
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -181,6 +186,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     
