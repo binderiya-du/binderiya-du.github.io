@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://binderiya-du.github.io/projects.html</loc>
-    <lastmod>2025-03-26T23:38:25.946Z</lastmod>
-  </url>
-  <url>
-    <loc>https://binderiya-du.github.io/index.html</loc>
-    <lastmod>2025-03-26T23:38:25.946Z</lastmod>
+    <loc>https://binderiya-du.github.io/resume.html</loc>
+    <lastmod>2025-03-27T00:18:14.602Z</lastmod>
   </url>
   <url>
     <loc>https://binderiya-du.github.io/about.html</loc>
-    <lastmod>2025-03-26T23:38:25.926Z</lastmod>
+    <lastmod>2025-03-27T00:18:14.582Z</lastmod>
+  </url>
+  <url>
+    <loc>https://binderiya-du.github.io/index.html</loc>
+    <lastmod>2025-03-27T00:18:14.602Z</lastmod>
+  </url>
+  <url>
+    <loc>https://binderiya-du.github.io/projects.html</loc>
+    <lastmod>2025-03-27T00:18:14.602Z</lastmod>
   </url>
 </urlset>
