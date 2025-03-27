@@ -1,11 +1,23 @@
 ---
-title: "About"
+title: "Binderiya Dugersuren"
 subtitle: "Applied Business Analytics Student | Traveller"
 image: images/profile.jpeg
 about:
   template: jolla
 ---
 
-## About this blog
+## About me
 
-This is the contents of the about page for my blog.
+Hi, I'm Binderiya Dugsuren, a Master's student at Boston University pursuing a Master's degree in Applied Business Analytics. I'm passionate about data science and using it to make businesses more sustainable. When I’m not diving into data, you’ll find me exploring new places around the world. 
+
+### MS in Applied Business Analytics
+
+I’m currently studying Applied Business Analytics at Boston University, where I’m gaining hands-on experience with tools like R, Python, and SQL. My background in sustainability drives me to apply data science to help businesses make smarter, more sustainable decisions. I’ve worked on several data analysis projects, including real estate investment forecasting and customer segmentation analysis.
+
+### Future Goals
+
+In the future, I hope to work with organizations that aim to drive sustainable growth through data-driven decision-making. I'm eager to leverage my skills in analytics to help businesses minimize waste, optimize resources, and operate more sustainably.
+
+### Hobbies
+
+Outside of academics, I’m an avid traveler. I love discovering new cultures and landscapes, and I try to bring that curiosity and excitement into everything I do. I'm also a passionate runner and am training for my first marathon.
