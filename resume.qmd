@@ -1,0 +1,82 @@
+---
+title: "Resume"
+format: html
+css: styles.css
+---
+
+## **BINDERIYA DUGERSUREN**  
+Boston, MA  
+
+**beegii@bu.edu** | 857-971-1133   
+
+---
+
+### **EDUCATION**
+
+**Boston University** — *Boston, MA*  
+**Master of Science in Applied Business Analytics** — *Expected Jan 2026*  
+- Relevant Coursework: Data Mining, Operations Management (Lean Six Sigma), Web Analytics, Marketing Analytics
+
+**University of Minnesota - Twin Cities** — *Minneapolis, MN*  
+**Bachelor of Science in Sustainable Systems Management** — *Dec 2020*  
+- Relevant Coursework: Renewable Energy, Environmental Policy, Life Cycle Analysis, Supply Chain Sustainability, Sustainable Manufacturing Principles and Practices
+
+---
+
+### **TECHNICAL SKILLS**
+- R, PowerBI, SQL, Python, Control Charts, DMAIC
+
+---
+
+### **PROFESSIONAL EXPERIENCE**
+
+**Boston University** — *Boston, MA*  
+**Research Assistant & Teaching Assistant** — *Fall 2024 - Present*  
+- **Teaching & Student Support**: Conduct consultation sessions to assist students with course material, clarify concepts, and address academic concerns. Support grading assignments for a class with 25 students to ensure fair and timely evaluation.  
+- **Instructional Design & AI Integration**: Utilized AI tools to create 20 tutorial videos for a business simulation, enhancing student engagement and learning. Assisted in designing instructional content to improve the student learning experience.
+
+**Khev Khashmal, LLC** — *Ulaanbaatar, Mongolia*  
+**Business Development Executive Assistant & Marketing Sales Specialist** — *2021 - 2024*  
+- **Strategic Growth & Operations**: Collaborated with management consultants and stakeholders to develop strategies for market expansion and operational efficiency, successfully reducing operational costs by 5% despite launching a new production line and factory. Led cross-functional coordination to optimize workflows for smooth integration of new processes.  
+- **Business Strategy & Execution**: Translated the CEO’s vision into measurable actions and KPIs, ensuring strategic alignment with business objectives. Assisted in implementing change management projects that streamlined operations, reducing delays by 20%.  
+- **Market Analysis & Sales Optimization**: Conducted in-depth market research to identify trends and provide actionable insights, supporting data-driven decision-making. Spearheaded marketing initiatives that increased sales of a targeted product by 10% and boosted audience engagement by 20%.
+
+**Clean Water Action** — *Minneapolis, MN*  
+**Sustainability Advocate Intern** — *June 2019 – August 2019*  
+- Communicated complex environmental policies through presentations and educational sessions, effectively informing and engaging new members on key sustainability issues.  
+- Led grassroots outreach initiatives to mobilize community support for environmental policies, increasing public awareness and advocacy engagement.
+
+---
+
+### **DATA ANALYTICS PROJECTS**
+
+**Chicago Crime and Crash Data Analysis** — *Boston University*  
+**Hackathon, Team Member (SQL, Python, PowerBI)** — *Fall 2024*  
+- Transformed crime and crash data for structured analysis and insights using SQL and Python.  
+- Designed PowerBI dashboards to visualize crime trends, seasonal crash patterns, and financial impacts.  
+- Identified key insights: theft (21.17%) and battery (17.77%) were most common crimes; 57% of crashes caused damages over $1,500, peaking in the afternoon.
+
+**New York City Neighborhood Real Estate Analysis** — *Boston University*  
+**Far Rockaway Real Estate Analysis (Excel, R, PowerBI)** — *Fall 2024*  
+- Maximized net present value of real estate investment profits over 8-quarter period by modeling optimization tool.  
+- Identified high-performing property clusters for targeted investments with R-based clustering analysis.  
+- Enabled data-driven decision-making among stakeholders by designing interactive PowerBI dashboards.
+
+**Restaurant Investment Decision Analysis** — *Boston University*  
+**Team Member, Microbrewery Investment Decision Analysis (Excel, Monte Carlo Business Simulation)** — *Fall 2024*  
+- Collaborated with a team to analyze financial and market data to evaluate a $150K investment in an in-house microbrewery.  
+- Designed a financial model in Excel and presented insights to support the restaurant’s decision-making process.  
+- Used Business Simulation Models for scenario analysis to assess potential risks and returns.
+
+---
+
+### **ADDITIONAL INFORMATION**
+
+- **Languages**: Mongolian (Fluent); Russian (Intermediate)  
+- **Interests**: Half Marathoner, Aspiring New York Marathoner, Growing Tennis Player  
+- **Email**: [binderiya.du@gmail.com](mailto:binderiya.du@gmail.com)
+
+---
+
+
+

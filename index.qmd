@@ -70,3 +70,5 @@ Join me on my journey as I combine my love for exploration with my passion for d
 
 
 :::
+
+You can view my full resume [here](resume.qmd).
