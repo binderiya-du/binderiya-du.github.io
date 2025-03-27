@@ -33,5 +33,54 @@
     "title": "Binderiya Dugsuren",
     "section": "",
     "text": "Exploring theworld, one data point at a time\n  \n\n\n   TRAVELER & LEARNER   |   DATA SCIENCE ENTHUSIAST   |   SUSTAINABILITY ADVOCATE   |   HALF MARATHONER & ASPIRING NYC MARATHONER\n\n\n\n\n\n\n\nAs a passionate traveler, I’ve always been curious about new places, cultures, and ideas. This curiosity drives me to explore and learn, and I’m bringing that same spirit of discovery to my work in data science. With a background in sustainability, my goal is to help businesses not only succeed but also operate responsibly and sustainably.\nWhile I’m just starting my journey in data science, I’m excited to dive deeper into this field and learn how data can help solve real-world problems. My mission is to use the power of data to create more sustainable solutions for businesses—whether it’s optimizing resources, reducing waste, or making smarter decisions that benefit both people and the planet.\nJoin me on my journey as I combine my love for exploration with my passion for data and sustainability!\n\nYou can view my full resume here."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "New York City Real Estate Analysis: Far Rockaway",
+    "section": "",
+    "text": "This project analyzes the real estate market in Far Rockaway, New York, to determine investment opportunities and market trends. By examining historical data and forecasting future sales, we explore which property segments offer the best potential for growth."
+  },
+  {
+    "objectID": "projects.html#project-overview",
+    "href": "projects.html#project-overview",
+    "title": "New York City Real Estate Analysis: Far Rockaway",
+    "section": "",
+    "text": "This project analyzes the real estate market in Far Rockaway, New York, to determine investment opportunities and market trends. By examining historical data and forecasting future sales, we explore which property segments offer the best potential for growth."
+  },
+  {
+    "objectID": "projects.html#data-analysis",
+    "href": "projects.html#data-analysis",
+    "title": "New York City Real Estate Analysis: Far Rockaway",
+    "section": "Data Analysis",
+    "text": "Data Analysis\nWe began with a dataset containing real estate transactions in Far Rockaway, which included 8,781 rows of data. After filtering for residential properties, we were left with 8,113 rows of relevant data. Key findings include:\n\nThe most frequent sale price range is between $250,000 and $500,000.\nMarket trends show a significant dip in sales after the 2008 recession, with a slow recovery post-2016."
+  },
+  {
+    "objectID": "projects.html#clustering-and-market-segments",
+    "href": "projects.html#clustering-and-market-segments",
+    "title": "New York City Real Estate Analysis: Far Rockaway",
+    "section": "Clustering and Market Segments",
+    "text": "Clustering and Market Segments\nUsing clustering analysis, we identified five distinct property segments in Far Rockaway:\n\nCluster 1: Average-sized, newer properties with below-average sale prices.\nCluster 2: Newer, moderately sized properties with above-average sale prices.\nCluster 3: Smaller, older homes with average sale prices.\nCluster 4: Larger, high-value luxury homes or large commercial properties.\nCluster 5: Smaller, older homes with lower prices.\n\nThese clusters help identify which property types are expected to perform well in the future, particularly for young professionals seeking modern housing."
+  },
+  {
+    "objectID": "projects.html#sales-forecasting",
+    "href": "projects.html#sales-forecasting",
+    "title": "New York City Real Estate Analysis: Far Rockaway",
+    "section": "Sales Forecasting",
+    "text": "Sales Forecasting\nWe performed a sales trajectory forecasting analysis, which revealed that newer properties are more likely to benefit from the current recovery, driven by infrastructure improvements and increased interest from younger professionals.\n\nProjected growth in sales is expected in neighborhoods with modern properties, with the demand for these properties expected to rise."
+  },
+  {
+    "objectID": "projects.html#investment-recommendations",
+    "href": "projects.html#investment-recommendations",
+    "title": "New York City Real Estate Analysis: Far Rockaway",
+    "section": "Investment Recommendations",
+    "text": "Investment Recommendations\nBased on the analysis and clustering results, we recommend investing in newer properties in Far Rockaway, particularly those with an optimal size of around 3,000 sq ft. Key reasons for this recommendation include:\n\nHigh tenant appeal due to modern designs and reduced vacancy rates.\nLower maintenance costs for newer properties.\nStrong market performance, with newer properties showing higher sales than older real estate."
+  },
+  {
+    "objectID": "projects.html#conclusion",
+    "href": "projects.html#conclusion",
+    "title": "New York City Real Estate Analysis: Far Rockaway",
+    "section": "Conclusion",
+    "text": "Conclusion\nIn conclusion, the analysis of Far Rockaway’s real estate market reveals strong investment potential, particularly in newer properties. These properties offer a balance of high returns with lower risk, especially with the expected growth in sales driven by urban developments and infrastructure projects. This project demonstrates how data can inform strategic decisions in the real estate market."
   }
 ]
