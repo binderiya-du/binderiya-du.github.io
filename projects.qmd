@@ -1,6 +1,59 @@
 ---
-title: Projects
-about:
-  template: jolla
+title: "New York City Real Estate Analysis: Far Rockaway"
+format: html
+css: styles.css
+---
+
+## **Project Overview**
+
+This project analyzes the real estate market in **Far Rockaway**, New York, to determine investment opportunities and market trends. By examining historical data and forecasting future sales, we explore which property segments offer the best potential for growth.
+
+---
+
+## **Data Analysis**
+
+We began with a dataset containing real estate transactions in **Far Rockaway**, which included 8,781 rows of data. After filtering for residential properties, we were left with 8,113 rows of relevant data. Key findings include:
+
+- The most frequent sale price range is between **$250,000 and $500,000**.
+- **Market trends** show a significant dip in sales after the **2008 recession**, with a slow recovery post-2016.
+
+---
+
+## **Clustering and Market Segments**
+
+Using clustering analysis, we identified five distinct property segments in Far Rockaway:
+
+1. **Cluster 1**: Average-sized, newer properties with below-average sale prices.
+2. **Cluster 2**: Newer, moderately sized properties with above-average sale prices.
+3. **Cluster 3**: Smaller, older homes with average sale prices.
+4. **Cluster 4**: Larger, high-value luxury homes or large commercial properties.
+5. **Cluster 5**: Smaller, older homes with lower prices.
+
+These clusters help identify which property types are expected to perform well in the future, particularly for young professionals seeking modern housing.
+
+---
+
+## **Sales Forecasting**
+
+We performed a **sales trajectory forecasting** analysis, which revealed that **newer properties** are more likely to benefit from the current recovery, driven by infrastructure improvements and increased interest from younger professionals.
+
+- **Projected growth** in sales is expected in neighborhoods with modern properties, with the demand for these properties expected to rise.
+
+---
+
+## **Investment Recommendations**
+
+Based on the analysis and clustering results, we recommend investing in **newer properties** in Far Rockaway, particularly those with an optimal size of around **3,000 sq ft**. Key reasons for this recommendation include:
+
+- **High tenant appeal** due to modern designs and reduced vacancy rates.
+- **Lower maintenance costs** for newer properties.
+- **Strong market performance**, with newer properties showing higher sales than older real estate.
+
+---
+
+## **Conclusion**
+
+In conclusion, the analysis of Far Rockaway’s real estate market reveals strong investment potential, particularly in newer properties. These properties offer a balance of **high returns** with **lower risk**, especially with the expected growth in sales driven by urban developments and infrastructure projects. This project demonstrates how data can inform strategic decisions in the real estate market.
+
 ---
 
