@@ -8,7 +8,10 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - projects.qmd
+      - text: "Projects"
+        menu:
+          - text: "NYC Real Estate"
+            href: "projects/project_NYC.qmd"
       - resume.qmd
 
 format:
