@@ -1,4 +1,18 @@
 ---
+title: "About Me"
+about:
+  template: trestles
+  image: images/profile.jpeg
+  links:
+    - icon: LinkedIn
+      text: LinkedIn
+      href: https://www.linkedin.com/in/binderiyadugersuren/
+    - icon: github
+      text: Github
+      href: https://github.com/binderiya-du
+---
+
+---
 title: "About me"
 subtitle: "Applied Business Analytics Student | Traveller"
 image: images/profile.jpeg
@@ -7,18 +21,28 @@ css: styles.css
 ---
 
 
-## **About Me**
-
 Hi, I'm Binderiya Dugsuren, a Master's student at Boston University pursuing a Master's degree in Applied Business Analytics. I'm passionate about data science and using it to make businesses more sustainable. When I’m not diving into data, you’ll find me exploring new places around the world. 
 
-## **MS in Applied Business Analytics**
+## Education
 
-I’m currently studying Applied Business Analytics at Boston University, where I’m gaining hands-on experience with tools like R, Python, and SQL. My background in sustainability drives me to apply data science to help businesses make smarter, more sustainable decisions. I’ve worked on several data analysis projects, including real estate investment forecasting and customer segmentation analysis.
+Boston University | Boston, MA
+Masters in Applied Business Analytics | Sept 2024 - June 2026
 
-## **Future Goals**
+University of Minnesota - Twin Cities| Minneapolis, MN
+B.s in Sustainable Systems Management  | Sept 2016 - January 2020
+
+## Experience
+
+Boston University | Reaserch Assistant | October 2024 - present
+
+Khev Khashmal | Business Development Executive Assistant | June 2021 - August 2024
+
+
+
+## Future Goals**
 
 In the future, I hope to work with organizations that aim to drive sustainable growth through data-driven decision-making. I'm eager to leverage my skills in analytics to help businesses minimize waste, optimize resources, and operate more sustainably.
 
-## **Hobbies**
+## Hobbies
 
 Outside of academics, I’m an avid traveler. I love discovering new cultures and landscapes, and I try to bring that curiosity and excitement into everything I do. I'm also a passionate runner and am training for my first marathon.
