@@ -69,6 +69,4 @@ While I’m just starting my journey in data science, I’m excited to dive deep
 Join me on my journey as I combine my love for exploration with my passion for data and sustainability!
 
 
-:::
 
-You can view my full resume [here](resume.qmd).
