@@ -126,6 +126,8 @@ fig.update_layout(
 fig.show()
 ```
 
+The bar graph compares job trends across various industries, highlighting the number of job openings for data analysts (green bars) versus other job titles (red bars). It shows that industries like **Administrative Support and Waste Management**, **Retail Trade**, and **Information** are seeing significant demand for data analysts, with a noticeable gap between these jobs and others in many sectors.
+
 ```{python}
 import plotly.express as px
 
@@ -146,6 +148,8 @@ fig = px.bar(df_top_industries,
 
 fig.show()
 ```
+
+The second graph displays the top 10 industries hiring data analysts, with the **Administrative Support and Waste Management** industry having the highest number of data analyst job openings. The graph uses different colors to represent job titles in various industries, with **Educational Services** and **Retail Trade** showing a considerable number of open positions as well.
 
 ```{python}
 # Define target industries
@@ -178,3 +182,4 @@ fig = px.pie(df_remote_grouped,
 fig.show()
 ```
 
+The pie chart provides a breakdown of the distribution of remote, hybrid, and on-site data analyst positions in the **Finance & Healthcare** sectors, with **71.5%** of jobs being fully remote. The chart also indicates a smaller percentage of hybrid and on-site roles, reflecting the increasing trend toward remote work in these industries.

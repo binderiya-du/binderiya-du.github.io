@@ -62,11 +62,10 @@ css: styles.css
 
 
 
-As a passionate traveler, I’ve always been curious about new places, cultures, and ideas. This curiosity drives me to explore and learn, and I’m bringing that same spirit of discovery to my work in data science. With a background in sustainability, my goal is to help businesses not only succeed but also operate responsibly and sustainably.
+As a young child exploring the vast Mongolian steppe, I developed a deep curiosity about new places, cultures, and ideas. This passion for exploration has stayed with me throughout my life and now drives my work in data science. With a background in sustainability, I aim to help businesses not only succeed but also operate responsibly and sustainably.
 
-While I’m just starting my journey in data science, I’m excited to dive deeper into this field and learn how data can help solve real-world problems. My mission is to use the power of data to create more sustainable solutions for businesses—whether it's optimizing resources, reducing waste, or making smarter decisions that benefit both people and the planet.
+While I’m just beginning my journey in data science, I’m eager to dive deeper into this field and learn how data can be leveraged to solve real-world problems. My mission is to harness the power of data to create sustainable solutions for businesses—whether it’s optimizing resources, reducing waste, or making smarter decisions that benefit both people and the planet.
 
-Join me on my journey as I combine my love for exploration with my passion for data and sustainability!
 
 
 

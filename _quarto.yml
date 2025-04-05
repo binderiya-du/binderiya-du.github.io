@@ -12,6 +12,8 @@ website:
         menu:
           - text: "NYC Real Estate"
             href: "projects/project_NYC.qmd"
+          - text: "Lightcast Job Analysis Data"
+            href: "projects/analysis.qmd"
       - resume.qmd
 
 format:
