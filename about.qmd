@@ -21,23 +21,35 @@ css: styles.css
 ---
 
 
-Hi, I'm Binderiya Dugsuren, a Master's student at Boston University pursuing a Master's degree in Applied Business Analytics. I'm passionate about data science and using it to make businesses more sustainable. When I’m not diving into data, you’ll find me exploring new places around the world. 
+Hi, I'm Binderiya Dugersuren, a Master's student at Boston University pursuing a Master's degree in Applied Business Analytics. I'm passionate about data science and using it to make businesses more sustainable. When I’m not diving into data, you’ll find me exploring new places around the world. 
 
 ## Education
 
 Boston University | Boston, MA
+
 MS in Applied Business Analytics | Sept 2024 - June 2026
 
 University of Minnesota - Twin Cities| Minneapolis, MN
-B.s in Sustainable Systems Management  | Sept 2016 - January 2020
+
+B.S in Sustainable Systems Management  | Sept 2016 - January 2020
 
 ## Experience
 
 Boston University | Reaserch Assistant | October 2024 - present
 
-Khev Khashmal | Business Development Executive Assistant | June 2021 - August 2024
+Conduct consultation sessions to assist students with course material, clarify concepts, and address academic concerns. Support grading assignments for a class with 25 students to ensure fair and timely evaluation. 
 
+Khev Khashmal | Business Development Executive Assistant 
 
+Ulaanbaatar, Mongolia  | June 2021 - August 2024
+
+Collaborated with management consultants and stakeholders to develop strategies for market expansion and operational efficiency, successfully reducing operational costs by 5% despite launching a new production line and factory. Led cross-functional coordination to optimize workflows for smooth integration of new processes.  
+
+Clean Water Action | Sustainability Advocate Intern 
+
+Minneapolis, MN | June 2019 – August 2019
+
+Communicated complex environmental policies through presentations and educational sessions, effectively informing and engaging new members on key sustainability issues. Led grassroots outreach initiatives to mobilize community support for environmental policies, increasing public awareness and advocacy engagement.
 
 ## Future Goals
 
