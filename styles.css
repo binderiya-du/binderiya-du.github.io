@@ -22,7 +22,7 @@ body {
 .hero-content {
   flex: 1;  /* Takes up half the space of the hero section */
   max-width: 600px;  /* Limit the width of the content box */
-  background-color: rgba(0, 0, 0, 0.3);  /* Semi-transparent background */
+  background-color: rgba(0, 0, 0, 0.2);  /* Semi-transparent background */
   color: white;
   padding: 30px;
   border-radius: 10px;  /* Optional: rounded corners for the text box */
