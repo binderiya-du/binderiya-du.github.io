@@ -9,11 +9,13 @@ execute:
 jupyter: python3
 ---
 
+
 ```{python}
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import plotly.express as px
-df = pd.read_csv("lightcast_job_postings.csv")
+df = pd.read_csv("data/lightcast_job_postings.csv")
 print("Available columns in dataset:", df.columns.tolist())
 
 columns_to_drop = [
