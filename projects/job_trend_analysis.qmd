@@ -1,7 +1,5 @@
 ---
 title: "US Job Trend Analysis"
-execute:
-  enabled: false
 format:
   html:
     meta:
