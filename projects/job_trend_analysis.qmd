@@ -2,6 +2,10 @@
 title: "US Job Trend Analysis"
 format:
   html:
-    meta:
-      refresh: "0; url=https://pranjul11garg.github.io/USA-Job-Market-Analytics/"
+    include-in-header:
+      text: |
+        <meta http-equiv="refresh" content="0; url=https://pranjul11garg.github.io/USA-Job-Market-Analytics/">
 ---
+If you are not redirected automatically, click here:
+[Open the project website](https://pranjul11garg.github.io/USA-Job-Market-Analytics/)
+
