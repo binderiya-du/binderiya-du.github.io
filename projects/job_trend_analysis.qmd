@@ -1,0 +1,8 @@
+---
+title: "US Job Trend Analysis"
+execute: false
+format:
+  html:
+    meta:
+      refresh: "0; url=https://pranjul11garg.github.io/USA-Job-Market-Analytics/"
+---
